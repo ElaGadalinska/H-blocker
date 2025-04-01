@@ -36,7 +36,6 @@
 - Preliminary versions of publications will be shared on platforms such as:
   - [arXiv.org](https://arxiv.org)
   - [preprints.org](https://www.preprints.org)
-  - [SSRN](https://www.ssrn.com)
   - [engrXiv](https://engrxiv.org)
 
 - All datasets and scripts will be released under an open license.
