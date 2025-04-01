@@ -1,0 +1,12 @@
+# Metadata template for experimental results
+sample_id: "Sample_1_H"
+date: "2025-04-01"
+material: "SS316L"
+treatment: "LSP"
+hydrogen_charging: true
+parameters:
+  laser_energy: "5 J"
+  pulse_duration: "10 ns"
+software_used: "Python 3.11"
+responsible: "AB"
+notes: "Initial test sample"
