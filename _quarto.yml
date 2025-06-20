@@ -2,8 +2,9 @@ project:
   type: website
 
 website:
-  title: "H-blocker – From Lab with Light"
-  description: "Let’s make things stronger!"
+  title: "H-blocker 🧪 From Lab with Light"
+  description: "Let's make things stronger!"
+  logo: logo.png
   navbar:
     left:
       - text: "Home"
