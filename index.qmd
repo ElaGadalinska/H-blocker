@@ -3,7 +3,14 @@ title: "H-blocker – From Lab with Light"
 format: html
 ---
 
-Welcome to my open lab notebook!
+Welcome to my open lab notebook! 
+
+![H-blocker logo](logo.png){width=300px}
+
+# Welcome to H-blocker 🧪  
+From Lab with Light
+
+Let's make things stronger!
 
 This is where I document my research on improving hydrogen embrittlement resistance in steels using **Laser Shock Peening (LSP)**. I'm part of the **MSCA project H-blocker**, working at **HiLASE, Czech Republic**.
 
