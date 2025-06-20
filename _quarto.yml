@@ -3,6 +3,7 @@ project:
 
 website:
   title: "H-blocker ⚡ From Lab with Light"
+  description: "Let's make things stronger!"
   navbar:
     left:
       - text: "Home"
@@ -15,6 +16,13 @@ website:
         href: gallery.qmd
       - text: "Publications"
         href: publications.qmd
+    right:
+      - icon: github
+        href: https://github.com/ElaGadalinska/H-blocker
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/elzbieta-gadalinska/
+        aria-label: LinkedIn
 
 format:
   html:
