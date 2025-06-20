@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "H-blocker – From Lab with Light"
+  description: "Let’s make things stronger!"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Notebook"
+        href: posts/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

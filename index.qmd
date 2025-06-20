@@ -1,0 +1,12 @@
+---
+title: "H-blocker – From Lab with Light"
+format: html
+---
+
+Welcome to my open lab notebook!
+
+This is where I document my research on improving hydrogen embrittlement resistance in steels using **Laser Shock Peening (LSP)**. I'm part of the **MSCA project H-blocker**, working at **HiLASE, Czech Republic**.
+
+Follow along as I run experiments, analyze microstructures, and try to make metals stronger – with light! ⚡
+
+Use the “Notebook” tab to explore experiment logs and progress updates.
