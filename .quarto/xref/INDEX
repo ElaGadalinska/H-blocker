@@ -10,5 +10,11 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "794d3393"
+  },
+  "CHANGELOG.md": {
+    "CHANGELOG.html": "1d672088"
+  },
+  "data/README_data.md": {
+    "README_data.html": "9f5b5b75"
   }
 }

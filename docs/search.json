@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "H-blocker – From Lab with Light",
+    "section": "",
+    "text": "Welcome to my open lab notebook!\nThis is where I document my research on improving hydrogen embrittlement resistance in steels using Laser Shock Peening (LSP). I’m part of the MSCA project H-blocker, working at HiLASE, Czech Republic.\nFollow along as I run experiments, analyze microstructures, and try to make metals stronger – with light! ⚡\nUse the “Notebook” tab to explore experiment logs and progress updates."
+  },
+  {
+    "objectID": "CHANGELOG.html",
+    "href": "CHANGELOG.html",
+    "title": "Changelog",
+    "section": "",
+    "text": "Changelog\nAll notable changes to this project will be documented in this file."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "data/README_data.html",
+    "href": "data/README_data.html",
+    "title": "Data Folder",
+    "section": "",
+    "text": "Data Folder\nThis folder contains experimental data. See below for structure and naming conventions."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  }
+]
