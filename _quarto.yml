@@ -30,8 +30,8 @@ format:
     css: styles.css
     page-footer:
       center: |
-        [GitHub](https://github.com/ElaGadalinska/H-blocker) • 
-        [LinkedIn](https://www.linkedin.com/in/elzbieta-gadalinska/) • 
-        [HiLASE](https://www.hilase.cz/) • 
-        [MSCA MERIT](https://www.linkedin.com/company/msca-merit/)
+        <a href="https://github.com/ElaGadalinska/H-blocker" target="_blank">GitHub</a> • 
+        <a href="https://www.linkedin.com/in/elzbieta-gadalinska/" target="_blank">LinkedIn</a> • 
+        <a href="https://www.hilase.cz/" target="_blank">HiLASE</a> • 
+        <a href="https://www.linkedin.com/company/msca-merit/" target="_blank">MSCA MERIT</a>
 
