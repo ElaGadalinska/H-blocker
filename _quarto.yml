@@ -2,22 +2,22 @@ project:
   type: website
 
 website:
-  title: "H-blocker - diary from Lab with Light"
-  description: "Let's make things stronger!"
+  title: "H-blocker ⚡ From Lab with Light"
   navbar:
-  left:
-    - text: "Home"
-      href: index.qmd
-    - text: "Notebook"
-      href: posts/index.qmd
-    - text: "Team"
-      href: team.qmd
-    - text: "Gallery"
-      href: gallery.qmd
-    - text: "Publications"
-      href: publications.qmd
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Notebook"
+        href: index.qmd
+      - text: "Team"
+        href: team.qmd
+      - text: "Gallery"
+        href: gallery.qmd
+      - text: "Publications"
+        href: publications.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
+

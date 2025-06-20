@@ -16,5 +16,14 @@
   },
   "data/README_data.md": {
     "README_data.html": "9f5b5b75"
+  },
+  "gallery.qmd": {
+    "gallery.html": "5db228b7"
+  },
+  "publications.qmd": {
+    "publications.html": "34d6467e"
+  },
+  "team.qmd": {
+    "team.html": "d3e90e7b"
   }
 }
