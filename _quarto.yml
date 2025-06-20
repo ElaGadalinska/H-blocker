@@ -5,11 +5,17 @@ website:
   title: "H-blocker - diary from Lab with Light"
   description: "Let's make things stronger!"
   navbar:
-    left:
-      - text: "Home"
-        href: index.qmd
-      - text: "Notebook"
-        href: posts/index.qmd
+  left:
+    - text: "Home"
+      href: index.qmd
+    - text: "Notebook"
+      href: posts/index.qmd
+    - text: "Team"
+      href: team.qmd
+    - text: "Gallery"
+      href: gallery.qmd
+    - text: "Publications"
+      href: publications.qmd
 
 format:
   html:

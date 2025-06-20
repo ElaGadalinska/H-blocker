@@ -1,0 +1,9 @@
+---
+title: "Gallery"
+format: html
+---
+
+# Gallery
+
+Here you’ll find images from our experiments, lab setup, and visualizations.  
+![Experimental setup](logo.png){width=300px}

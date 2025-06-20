@@ -7,7 +7,7 @@ Welcome to my open lab notebook!
 
 ![H-blocker logo](logo.png){width=300px}
 
-# Welcome to H-blocker 🧪  
+# Welcome to H-blocker
 From Lab with Light
 
 Let's make things stronger!

@@ -1,0 +1,9 @@
+---
+title: "Team"
+format: html
+---
+
+# Meet the Team
+
+This project is led by awesome researchers working on laser peening and hydrogen embrittlement.  
+(More info coming soon!)
