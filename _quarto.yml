@@ -28,4 +28,10 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    page-footer:
+      center: |
+        [GitHub](https://github.com/ElaGadalinska/H-blocker) • 
+        [LinkedIn](https://www.linkedin.com/in/elzbieta-gadalinska/) • 
+        [HiLASE](https://www.hilase.cz/) • 
+        [MSCA MERIT](https://www.linkedin.com/company/msca-merit/)
 
